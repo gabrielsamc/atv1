@@ -62,3 +62,4 @@ Se algo for diferente, anote e me mande a saída completa.
 ## Observação sobre `LIKE`
 
 O `PreparedStatement` impede a injeção, mas os caracteres `%` e `_` digitados pelo usuário continuam funcionando como coringas do `LIKE`. Isso não é SQL Injection, só uma busca mais ampla do que o usuário pretendia.
+"# atv1" 
